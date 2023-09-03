@@ -1,0 +1,14 @@
+Dear all,
+
+In this homework, your goal is to implement a coin catcher game. If you don't know how to play the game, please watch the following video.
+https://www.youtube.com/watch?v=DsUIjYvwYwk&ab_channel=%E6%9B%BC%E7%99%BB%E5%B7%B4
+
+Note that you can use all content (images) online when developing the game. I will not make the games/homework public. The more fun the game is, the higher score you will get. Please don't hesitate to ask questions if there are any.
+
+PS1: You only have to submit your source codes. No reports are needed.
+PS2: You have to implement the game using C++ & OpenGL. Using game engines, such as Unity or Unreal, is not allowed.
+PS3: Zip your project folder and name the file "your_student_ID.zip" and upload it to E3. Please set the library and directory using relative paths and make sure that they work well so that TAs can compile your codes easily. Otherwise, you will lose 10 points on your homework. This is mandatory since TAs have to grade 90 homework. It will never be a good idea for them to set the paths for all your homework.
+PS4: The overdue date is Oct. 17. You have a second chance to submit your homework. However, you lose 20 points on your homework if you didn't make it on Oct. 10.
+
+Best,
+YuShuen

@@ -1,0 +1,12 @@
+Dear all,
+
+Here comes the final project! I came out with two directions for you after some consideration.
+
+1. Build a video game using Unity3D. You can use all materials (such as images, videos, music, and all free stuff in Unity Asset Store) online in your game. Similar to homework 1, make the game as fun/complete/attractive/visually appealing as possible. No rule is the rule.
+
+2. Implement a visual effect using GLSL shader. Examples are toon shading, bump mapping, global illumination, and environment mapping. I understand there are many codes available online. So don't make it like an online example. For instance, you can mix two effects in your project or take a photo of NYCU using a 360 camera.
+
+Please let me know if you have any questions.
+
+Good luck,
+YuShuen

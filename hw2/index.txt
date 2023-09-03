@@ -1,0 +1,21 @@
+Dear all,
+
+In this homework, your goal is to write a program that allows you to create a robot that you can manipulate with the keyboard. You are free to create your own robotic character, but there should be at least 10 components in the robot, and the hierarchy should not be flat. For example, in the figures below, we have the following hierarchy:
+
+Torso
+Head
+Upper left arm
+Lower left arm
+Upper right arm
+Lower right arm
+Upper left leg
+Lower left leg
+Upper right leg
+Lower right leg
+
+The exact size, placement, and rotation of these components are up to you. Be sure to provide a readme file mentioning how the robot can be manipulated.
+
+PS1: You only have to submit your source codes. No reports are needed.
+PS2: You have to implement the game using C++ & OpenGL. Using game engines, such as Unity or Unreal, is not allowed.
+PS3: Zip your project folder and name the file "your_student_ID.zip" and upload it to E3. Please set the library and directory using relative paths and make sure that they work well so that TAs can compile your codes easily. Otherwise, you will lose 10 points on your homework. This is mandatory since TAs have to grade 90 homework. It will never be a good idea for them to set the paths for all your homework.
+PS4: The overdue date is Nov. 14. You have a second chance to submit your homework. However, you lose 20 points on your homework if you don't make it on Nov. 7.
